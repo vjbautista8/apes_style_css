@@ -1,9 +1,7 @@
-.background-image {
+/* .background-image {
     position: relative !important;
     width: 100% !important;
-    /* Set your desired width */
-    /* height: 400px !important; */
-    /* Set your desired height */
+    
     background-image: url('https://png.pngtree.com/png-vector/20220723/ourlarge/pngtree-login-access-denied-vector-illustration-png-image_6041380.png') !important;
     background-size: cover !important;
     background-position: center !important;
@@ -25,5 +23,6 @@
 .background-image * {
     position: relative !important;
     z-index: 9999 !important;
-    /* Ensures content is above the overlay */
+   
 }
+ */
